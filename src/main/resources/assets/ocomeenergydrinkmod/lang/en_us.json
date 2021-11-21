@@ -1,0 +1,10 @@
+{
+  "$comment": "コメント",
+  "itemGroup.ocomeenergydrinkmod" : "Tutorial Mod",
+  "item.ocomeenergydrinkmod.kiiva_punch" : "Kiiva Punch",
+  "item.ocomeenergydrinkmod.monster_energy" : "Monster Energy",
+  "item.ocomeenergydrinkmod.red_bull" : "Red Bull",
+  "item.ocomeenergydrinkmod.red_bull_sugarfree" : "Red Bull Sugar Free",
+  "item.ocomeenergydrinkmod.survivar_energy_drink" : "Survival Energy Drink",
+  "item.ocomeenergydrinkmod.zone_ver2" : "Zone Var2"
+}
