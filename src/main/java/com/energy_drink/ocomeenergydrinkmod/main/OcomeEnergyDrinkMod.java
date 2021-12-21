@@ -1,5 +1,6 @@
 package com.energy_drink.ocomeenergydrinkmod.main;
 
+import com.energy_drink.ocomeenergydrinkmod.CustomPlayerRenderer;
 import net.minecraft.client.Minecraft;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.item.CreativeModeTab;
@@ -31,6 +32,8 @@ public class OcomeEnergyDrinkMod
     public static final String MOD_ID = "ocomeenergydrinkmod";
 
     public OcomeEnergyDrinkMod() {
+
+
 
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
         // Register the setup method for modloading
